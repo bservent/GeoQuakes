@@ -5,6 +5,10 @@ body {
     background-color: black;
   }
   
+  h1 {
+      color: white;
+  }
+  
   .app {
     display: flex;
     flex-direction: row;
@@ -18,9 +22,6 @@ body {
     padding-left: 2em;
   }
 
-  h1 {
-      color: white;
-  }
   
   .quakeContainer {
     padding-top: 2em; 
