@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+  }
+  
+  .app {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+
+  
+  .mapContainer {
+    padding-top: 2em; 
+    padding-left: 2em;
+  }
+
+  h1 {
+      color: white;
+  }
+  
+  .quakeContainer {
+    padding-top: 2em; 
+    padding-right: 2em;
+  }
+  
